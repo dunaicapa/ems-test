@@ -1,0 +1,15 @@
+{
+  "name": "emarsys",
+  "version": "1.0.0",
+  "description": "due date app for emarsys test",
+  "scripts": {
+    "test": "jest",
+    "start": "node main.js"
+  },
+  "devDependencies": {
+    "jest": "^23.2.0"
+  },
+  "author": "Gabor Schneider",
+  "license": "ISC",
+  "dependencies": {}
+}
